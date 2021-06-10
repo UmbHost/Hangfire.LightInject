@@ -1,11 +1,6 @@
 ﻿using Hangfire.Annotations;
-using Hangfire.LightInject;
 using LightInject;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Hangfire
 {
